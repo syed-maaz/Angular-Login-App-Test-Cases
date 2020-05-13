@@ -1,5 +1,7 @@
 # Angular Login App Test cases
 
+This project is to test cases of Login and Routing in Anguler
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21.
 
 ## Development server
